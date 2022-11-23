@@ -6371,11 +6371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Doctor4skin\\Doctor4skin\\Doctor4skin.csproj",
+      "projectUniqueName": "D:\\Proyectos\\adassadsad\\Backend\\Doctor4skin\\Doctor4skin.csproj",
       "projectName": "Doctor4skin",
-      "projectPath": "D:\\Proyectos\\Doctor4skin\\Doctor4skin\\Doctor4skin.csproj",
+      "projectPath": "D:\\Proyectos\\adassadsad\\Backend\\Doctor4skin\\Doctor4skin.csproj",
       "packagesPath": "C:\\Users\\Moises\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Doctor4skin\\Doctor4skin\\obj\\",
+      "outputPath": "D:\\Proyectos\\adassadsad\\Backend\\Doctor4skin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
